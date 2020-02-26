@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on stcoder</title>
+    <link>https://stcoder.github.io/tags/</link>
+    <description>Recent content in Tags on stcoder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 31 Jan 2020 15:13:05 +0500</lastBuildDate>
+    
+	<atom:link href="https://stcoder.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>react</title>
+      <link>https://stcoder.github.io/tags/react/</link>
+      <pubDate>Fri, 31 Jan 2020 15:13:05 +0500</pubDate>
+      
+      <guid>https://stcoder.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wait:read</title>
+      <link>https://stcoder.github.io/tags/waitread/</link>
+      <pubDate>Fri, 31 Jan 2020 15:13:05 +0500</pubDate>
+      
+      <guid>https://stcoder.github.io/tags/waitread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://stcoder.github.io/tags/git/</link>
+      <pubDate>Thu, 30 Jan 2020 17:52:48 +0500</pubDate>
+      
+      <guid>https://stcoder.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

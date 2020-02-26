@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on stcoder</title>
+    <link>https://stcoder.github.io/tags/git/</link>
+    <description>Recent content in git on stcoder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 30 Jan 2020 17:52:48 +0500</lastBuildDate>
+    
+	<atom:link href="https://stcoder.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>https://stcoder.github.io/notes/git/</link>
+      <pubDate>Thu, 30 Jan 2020 17:52:48 +0500</pubDate>
+      
+      <guid>https://stcoder.github.io/notes/git/</guid>
+      <description>Тут буду вести всякие заметки по git.
+Переименование ветки git branch -m old_branch new_branch - переименовать локальную ветку
+git push origin :old_branch - удалить старую ветку
+git push -u|--set-upstream origin new_branch - запушить новую ветку на удаленный сервер
+Отмена мержа git checkout master - переходим локально в ветку master
+git reset HEAD^ - отменяем последние изменения
+git push -f origin master:master - обновляем ветку на удаленном сервере
+Удалить все замерженный локальные ветки git branch --merged | egrep -v &amp;quot;^\*|master|develop&amp;quot; | xargs git branch -d</description>
+    </item>
+    
+  </channel>
+</rss>

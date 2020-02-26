@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading-room on stcoder</title>
+    <link>https://stcoder.github.io/categories/reading-room/</link>
+    <description>Recent content in reading-room on stcoder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 31 Jan 2020 15:13:05 +0500</lastBuildDate>
+    
+	<atom:link href="https://stcoder.github.io/categories/reading-room/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ui Kit in React</title>
+      <link>https://stcoder.github.io/reading-room/articles/ui-kit-react/</link>
+      <pubDate>Fri, 31 Jan 2020 15:13:05 +0500</pubDate>
+      
+      <guid>https://stcoder.github.io/reading-room/articles/ui-kit-react/</guid>
+      <description>Better Reusable React Components with the Overrides Pattern  Репозиторий [https://github.com/true-kit/core] * [ ] UIKit, который точно сможет * [ ] 🧰 TrueKit — 🐳, который сможет! * [ ] 🐳 TrueKit. Часть I. Темизация 👨🏻‍🎨. * [ ] 🐳 TrueKit. Часть II. Зависимости 💉 * [ ] 🐳 TrueKit. Часть III. Слоты 🎰.</description>
+    </item>
+    
+  </channel>
+</rss>
